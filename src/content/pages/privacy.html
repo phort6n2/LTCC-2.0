@@ -1,0 +1,40 @@
+---
+title: 'Privacy'
+description: 'Meta description for the page'
+preloadImg: '/assets/images/cabinets2.jpg'
+permalink: 'privacy/'
+eleventyNavigation:
+    key:
+    order:
+---
+
+{% extends "layouts/base.html" %}
+
+{% block head %}
+    <link rel="stylesheet" href="/assets/css/privacy.css">
+{% endblock %}
+
+{% block body %}
+   
+<!-- ============================================ -->
+<!--                  Content                     -->
+<!-- ============================================ -->
+
+<section id="content-1450">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">Lakes Therapy and Counseling Center</span>
+            <h1 class="cs-title">Privacy Policy</h1>
+            <div class="getterms-document-embed" data-getterms="A9V1F" data-getterms-document="privacy" data-getterms-lang="en-us" data-getterms-mode="direct"></div>
+<script type="text/javascript">(function(d, s, id) { var js, ref = d.getElementsByTagName(s)[0]; if (d.getElementById(id))
+return; js = d.createElement(s); js.id = id; js.src = "https://app.getterms.io/dist/js/embed.js"; ref.parentNode.insertBefore(js, ref); })
+(document, "script", "getterms-embed-js");</script>
+            <a href="/" class="cs-button-solid">Go to Homepage</a>
+        </div>
+    </div>
+</section>
+                                
+
+    {% include 'components/cta.html' %}
+
+{% endblock %}

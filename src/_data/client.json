@@ -1,0 +1,15 @@
+{
+    "name": "Lakes Therapy and Counseling Center",
+    "email": "info@coupleconnectionsd.com",
+    "phoneForTel": "951-417-5443",
+    "phoneFormatted": "(951) 417-5443",
+    "address": {
+        "lineOne": "41856 Ivy St",
+        "lineTwo": "STE 205",
+        "city": "Murrieta",
+        "state": "CA",
+        "zip": "92562",
+        "mapLink": "https://maps.app.goo.gl/tVq1mUXpnkQbvYyM8"
+    },
+    "domain": "https://murrietatherapy.com"
+}

@@ -1,0 +1,69 @@
+---
+title: 'Schedule'
+description: 'Meta description for the page'
+preloadImg: '/assets/images/cabinets2.jpg'
+permalink: 'schedule/'
+eleventyNavigation:
+    key:
+    order:
+---
+
+{% extends "layouts/base.html" %}
+
+{% block head %}
+    <link rel="stylesheet" href="/assets/css/schedule.css">
+{% endblock %}
+
+{% block body %}
+
+<!-- ============================================ -->
+<!--                    Form                      -->
+<!-- ============================================ -->
+
+<section id="cs-contact-485">
+    <div class="cs-container">
+        <div class="cs-content">
+            <h1 class="cs-title">Request Your Free <span class="cs-color">15 Minute Consultation!</span></h1>
+            <p class="cs-text">
+                We would love to connect with you and discuss how we can help. Please fill the form on the right side to request a call to schedule a free 15 minute consultation at a time that works for you.
+            </p>
+            <span class="cs-heading">Would You Rather Call or Email?</span>
+            <span class="cs-heading">Contact Us Directly:</span>
+            <a href="tel:951-417-5443" class="cs-link">(951) 417-5443</a>
+            <a href="mailto:info@coupleconnectionsd.com" class="cs-link">info@coupleconnectionsd.com</a>
+        </div>
+        <!--Form-->
+        <form id="cs-form-485" name="15 Minute Consultation Form" method="post" data-netlify="true">
+            <h3 class="cs-h3">Request A Free Consultation</h3>
+            <label class="cs-label">
+                Full Name
+                <input class="cs-input" required type="text" id="name-485" name="name" placeholder="Name">
+            </label>
+            <label class="cs-label">
+                Phone
+                <input class="cs-input" required type="text" id="phone-485" name="phone" placeholder="Phone">
+            </label>
+            <label class="cs-label">
+                Email
+                <input class="cs-input" required type="text" id="email-485" name="email" placeholder="Email">
+            </label>
+            <label class="cs-label cs-label-message">
+                What type of therapy are you interested in?
+                <select name="cars" id="cs-select-485">
+                    <option value="couples therapy">Couples Therapy</option>
+                    <option value="individual therapy">Individual Therapy</option>
+                    <option value="family therapy">Family Therapy</option>
+                </select>
+            </label>
+            <button class="cs-button-solid cs-submit" type="submit">Request A Free Consultation</button>
+        </form>
+    </div>
+    <!--Background Image-->
+    <picture class="cs-background">
+        <source media="(max-width: 600px)" srcset="https://murrieta-therapy.b-cdn.net/ivy.webp">
+        <source media="(min-width: 601px)" srcset="https://murrieta-therapy.b-cdn.net/ivy.webp">
+        <img aria-hidden="true" loading="lazy" decoding="async" src="https://murrieta-therapy.b-cdn.net/ivy.webp" alt="A photo showing a happy couple who scheduled their free 15 minute consultation with Lakes Therapy and Counseling Center" width="1920" height="1200">
+    </picture>
+</section>
+
+{% endblock %}

@@ -1,0 +1,147 @@
+---
+title: 'About'
+description: 'Meta description for the page'
+preloadImg: '/assets/images/cabinets2.jpg'
+permalink: 'about/'
+eleventyNavigation:
+    key: About
+    order: 300
+---
+
+{% extends "layouts/base.html" %}
+
+{% block head %}
+    <link rel="stylesheet" href="/assets/css/about.css">
+{% endblock %}
+
+{% block body %}
+    <!-- ============================================ -->
+    <!--                    LANDING                   -->
+    <!-- ============================================ -->
+
+    <section id="int-hero">
+        <h1 id="home-h">About Us</h1>
+        <picture>
+            <source media="(max-width: 600px)" srcset="/assets/images/cabinets2-m.jpg">
+            <source media="(min-width: 601px)" srcset="/assets/images/cabinets2.jpg">
+            <img aria-hidden="true" decoding="async" src="/assets/images/cabinets2.jpg" alt="kitchen cabinets" loading="eager" width="2500" height="1667">
+        </picture>
+
+    </section>
+
+    <!-- ============================================ -->
+<!--                Meet The Team                 -->
+<!-- ============================================ -->
+
+<section id="meet-team-1141">
+    <div class="cs-container">
+        <div class="cs-content">
+            <div class="cs-flex">
+                <span class="cs-topper">Our Team</span>
+                <h2 class="cs-title">Meet The Team Behind Lakes Therapy and Counseling Center</h2>
+            </div>
+            <a href="/schedule" class="cs-button-solid">Schedule A Free Consultation</a>
+        </div>
+        <ul class="cs-card-group">
+            <li class="cs-item">
+                <picture class="cs-picture">
+                    <!--Mobile Image-->
+                    <source media="(max-width: 600px)" srcset="https://murrieta-therapy.b-cdn.net/John-Preferred-Homepage%20(1).jpg">
+                    <!--Tablet and above Image-->
+                    <source media="(min-width: 601px)" srcset="https://murrieta-therapy.b-cdn.net/John-Preferred-Homepage%20(1).jpg">
+                    <img loading="lazy" decoding="async" src="https://murrieta-therapy.b-cdn.net/John-Preferred-Homepage%20(1).jpg" alt="Photo of John Bacon Gilbert" width="305" height="407">
+                </picture>
+                <div class="cs-info">
+                    <span class="cs-name">John Bacon Gilbert</span>
+                    <span class="cs-job">LMFT#125762</span>
+                </div>
+            </li>
+            <li class="cs-item">
+                <picture class="cs-picture">
+                    <!--Mobile Image-->
+                    <source media="(max-width: 600px)" srcset="https://murrieta-therapy.b-cdn.net/Miranda-Headshot-scaled-e1702056648233.jpg">
+                    <!--Tablet and above Image-->
+                    <source media="(min-width: 601px)" srcset="https://murrieta-therapy.b-cdn.net/Miranda-Headshot-scaled-e1702056648233.jpg">
+                    <img loading="lazy" decoding="async" src="https://murrieta-therapy.b-cdn.net/Miranda-Headshot-scaled-e1702056648233.jpg" alt="Photo of Miranda Linden" width="305" height="407">
+                </picture>
+                <div class="cs-info">
+                    <span class="cs-name">Mirana Linden</span>
+                    <span class="cs-job">AMFT #143240​</span>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+                                
+<!-- ============================================ -->
+<!--                 Side By Side                 -->
+<!-- ============================================ -->
+
+<section id="RPsbs-1445">
+    <div class="cs-container">
+        <picture class="cs-picture">
+            <source media="(max-width: 600px)" srcset="https://murrieta-therapy.b-cdn.net/John-Preferred-Homepage%20(1).jpg">
+            <source media="(min-width: 601px)" srcset="https://murrieta-therapy.b-cdn.net/John-Preferred-Homepage%20(1).jpg">
+            <img loading="lazy" decoding="async" src="https://murrieta-therapy.b-cdn.net/John-Preferred-Homepage%20(1).jpg" alt="volunteers" width="650" height="600" aria-hidden="true">
+        </picture>
+        <div class="cs-content">
+            <span class="cs-topper">LMFT #125762</span>
+            <h2 class="cs-title">John Bacon Gilbert</h2>
+            <p class="cs-text">
+                During a coffee chat with my partner, we mused about our dream careers. For me, being a therapist was the clear choice – a profession that aligns perfectly with my passions and feels less like work and more like a calling.
+            </p>
+            <p class="cs-text">
+                Witnessing my clients grow and develop fills me with immense happiness. My path to therapy was diverse; I began as a shipboard firefighter in the Coast Guard as a young parent, then ventured into entrepreneurship, and even tackled IT system analysis. Now, I’m grateful to have discovered my true passion in therapy.
+            </p><p class="cs-text">
+                Nothing is more rewarding than seeing couples achieve a deeper connection than they ever thought possible. This work brings me an incredible sense of joy, peace, and purpose.
+            </p><p class="cs-text">
+                My introduction to Emotionally Focused Therapy (EFT) was a revelation, illuminating the patterns in my past relationships. Understanding these dynamics transformed my perspective and deepened my commitment to EFT.
+            </p><p class="cs-text">
+                My goal as a therapist is to guide you through the transformative experiences that EFT offers, much like the ones that profoundly impacted my own understanding of relationships.
+            </p>
+            <a href="/schedule" class="cs-button-solid">Schedule A Free Consultation</a>        
+        </div>
+    </div>
+</section>
+
+<!-- ============================================ -->
+<!--             Side By Side Reverse             -->
+<!-- ============================================ -->
+
+<section id="RPsbsr-1445">
+    <div class="cs-container">
+        <picture class="cs-picture">
+            <source media="(max-width: 600px)" srcset="https://murrieta-therapy.b-cdn.net/Miranda-Headshot-scaled-e1702056648233.jpg">
+            <source media="(min-width: 601px)" srcset="https://murrieta-therapy.b-cdn.net/Miranda-Headshot-scaled-e1702056648233.jpg">
+            <img loading="lazy" decoding="async" src="https://murrieta-therapy.b-cdn.net/Miranda-Headshot-scaled-e1702056648233.jpg" alt="volunteers" width="650" height="600" aria-hidden="true">
+        </picture>
+        <div class="cs-content">
+            <span class="cs-topper">AMFT #143240</span>
+            <h2 class="cs-title">Miranda Linden</h2>
+            <p class="cs-text">
+                As an associate therapist, I am deeply dedicated to enhancing the lives of couples using attachment theory and Emotionally Focused Therapy (EFT). My compassionate approach creates a secure, welcoming environment for all clients. I employ hands-on methods to assist couples in examining and transforming their emotional ties, aiming for meaningful, enduring relationships. My thorough knowledge of attachment principles helps couples overcome various challenges, strengthening their resilience and deepening their love.
+            </p>
+            <p class="cs-text">
+                My specialty areas include counseling for couples, LGBTQ+ individuals, and teenagers, where I apply an open-minded and understanding approach. I am skilled in guiding those in polyamorous and open relationships towards better understanding and connection. My primary goal is to aid people in improving their loving relationships, offering a secure and nurturing space for exploration, healing, and building more robust, fulfilling bonds.
+            </p>    
+            <p class="cs-text">
+                For couples seeking therapy, the ideal candidates are those eager to enhance their relationship dynamics. These couples might be dealing with issues like communication barriers, trust problems, or the general complexities of sustaining a healthy relationship. I am adept at providing a safe space for couples to delve into their feelings, comprehend attachment patterns, and rekindle the strengths that initially united them. Ideal clients are ready to actively participate in therapy, committed to growth and deeper connection.
+            </p>
+            <p class="cs-text">
+                In addition, I welcome the unique aspects of non-traditional relationships. These could be individuals or groups managing the dynamics of multiple relationships simultaneously, aiming to foster effective communication and mutual understanding. They should be open to examining various emotional aspects and dedicated to cultivating healthy connections.
+            </p>
+            <p class="cs-text">
+                My practice is inclusive and affirming for clients of diverse sexual orientations and gender identities. These clients may be dealing with societal pressures, self-exploration, or specific relationship challenges within the LGBTQ+ spectrum. I aim to provide a supportive, non-judgmental environment that allows them to explore their unique experiences and hurdles.
+            </p>
+            <p class="cs-text">
+                This philosophy extends to teenagers wrestling with identity, peer relations, and family dynamics. These younger clients might be facing issues related to self-esteem, communication, or their evolving identities. I strive to offer a therapeutic relationship that combines guidance and support, ensuring a safe space for self-expression and personal development.
+            </p>
+            <a href="/schedule" class="cs-button-solid">Schedule A Free Consultation</a>        
+        </div>
+    </div>
+</section>
+                                
+
+    {% include 'components/cta.html' %}
+
+{% endblock %}
