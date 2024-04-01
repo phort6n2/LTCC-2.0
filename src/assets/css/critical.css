@@ -8,6 +8,7 @@
     position: relative;
   }
   #hero-670 .cs-container {
+    padding-top: 100px;
     width: 100%;
     max-width: 80rem;
     margin: auto;
