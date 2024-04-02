@@ -9,11 +9,9 @@ image: /assets/images/blog/landing.jpg
 imageAlt: Kitchen
 ---
 
-## The Power of Emotionally Focused Therapy: How Can EFT Help You Build Healthy Lasting Relationships
-
 Has your relationship been stuck in the same unhealthy patterns that cause you and your spouse to drift apart and feel unseen, unheard, and abandoned? Does your relationship seem like a roommate marriage without genuine emotional connection or passion? Do you struggle with communication breakdown, lost intimacy, emotional disconnection, and loneliness in marriage?
 
-According to research, couples typically wait six years before seeking treatment, which allows their problems to build up and makes healing and rekindling more difficult. Seeking the support of a trained couples counselor early on may help you get unstuck, resolve challenges more positively and productively, and reignite your connection.
+According to research, couples typically [wait six years before seeking treatment](https://pubmed.ncbi.nlm.nih.gov/33411353/#:~:text=A%20widely%20cited%20but%20poorly,have%20poor%20prospects%20for%20recovery.), which allows their problems to build up and makes healing and rekindling more difficult. Seeking the support of a trained couples counselor early on may help you get unstuck, resolve challenges more positively and productively, and reignite your connection.
 
 -   Sua ille submittere viribus verba visa Myconon
 -   Qvem nec
