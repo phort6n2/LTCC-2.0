@@ -35,7 +35,30 @@ For example, if your partner says or does something that hurts your feelings, av
 
 When you reframe a stressful situation this way, you are slowing your cycle and attempting to understand rather than becoming reactive, which usually leads to positive communication outcomes.
 
+### 3. EFT Can Help Break Negative Cycles
 
-_Multis soror_, mundi paruerit quietem in, temeraria velantque guttura temerarius candens prostravit vera operatus, ut fecimus. Gyaros quaesiti in, a frustra,
-iacentia hosti. Suae iamque. Sustinet crimen toris, oves hanc est causa tum paravi phocen in natas, crudelis infra erat minimo? Inquit et **loqui studiisque
-Alpheos** venti spectata velocior [fida](http://www.animiquetantaque.net/atulterius.aspx) Iove habet Cometen rediit; tulisset!
+Many couples often find themselves stuck in negative relationship cycles, patterns, or 'dance' of negative interactions. For example, in most relationships, one partner is usually the pursuer while the other is the withdrawer. A pursuer is a partner uncomfortable with separation and detachment, so they seek out more. When problems in a relationship arise, they may become irritated, snap at their partner, ask many questions, criticize, seek clarification, and so on. In contrast, the withdrawer typically tries to avoid confrontation, so they may refuse to talk, change the subject, shut their partner out, or minimize their concerns.
+
+EFT may help you identify what you and your partner do when you are uncomfortable and in distress. Raising awareness of this and noticing the pursuer-withdrawer pattern may be essential in eventually shifting the entire dance.
+
+### 4. EFT Can Help Build Trust
+
+When we are in emotional distress, we don't need our partner to rationalize or fix things for us. What we need is a sense of security—the freedom to be vulnerable and the opportunity to feel seen and heard.
+
+Couples therapy may help you explore the roots of distrust and overcome infidelity, lies, or other challenges that led to a breach of trust and learn to reestablish confidence in each other. Through EFT sessions, you can learn to turn to each other in challenging times. This can help build stronger and more resilient relationships.
+
+### 5. EFT Can Equip You with Stress-Management Strategies
+
+External pressures and significant life transitions can often trigger or aggravate problems in our relationships. EFT can help you develop tools and strategies for managing stress and changes in your life so that they don't have a grip on your marriage.
+
+### 6. EFT Can Help Resolve Past Issues
+
+Our past traumas, attachment styles, baggage from our origin families, scars from previous love relationships, or infidelity in the past can all have a significant influence on our current relationship. EFT may help you connect with your inner child, address and resolve past conflicts, and understand how they affect your current relationship, allowing you to move forward without the load of the past.
+
+### 7. EFT Can Enhance Intimacy
+
+The first step toward rekindling love and intimacy in a relationship is open communication that allows both partners to understand and respond to each other's emotional needs. By focusing on your emotional needs, vulnerability, and openness, your EFT therapist can help you develop a deeper level of understanding, improving your emotional bond and physical intimacy.
+
+### 8. EFT Can Help Create Secure Attachment
+
+The ultimate goal of emotionally focused therapy for couples is to create a more secure emotional attachment between partners in which they both feel seen, heard, and supported. By strengthening your secure attachment, EFT can help you achieve a more profound and authentic connection, creating a lasting positive change in your relationship.
