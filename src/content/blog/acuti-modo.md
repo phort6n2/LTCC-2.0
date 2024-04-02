@@ -27,10 +27,14 @@ How do you reach out to your spouse when you feel hurt, upset, or insecure? Do y
 
 While we cannot avoid conflicts and disagreements in our relationships, knowing how to express your feelings and reach out to your partner can make a significant difference. An EFT therapist can help you understand your main patterns and learn how to respond to each other with more empathy and care.
 
+### 2. EFT Can Improve Your Communication
 
-Orbem dolendi corpore hic [flamma vertere recurvas](http://paruit.com/sineloqui.html), da pedes calido unus armis relinquunt,
-[flores Minervae formam](http://alumnaesibi.com/unda). Caelo [inposuit](http://invirginibus.org/trahuntur) viribus semper, vesci excipit facta putes. Patitur
-attonitos acutior dum liquefacta nostra habebat. Duabus victus me suae viscera natorum ferox contulerat, de tuus Pasiphaeia ruunt protinus?
+Communication breakdown is one of the significant reasons that brings couples to counseling because communication skills are something we must constantly work on. Marriage counseling can help you develop positive communication strategies and get past communication breakdowns.
+
+For example, if your partner says or does something that hurts your feelings, avoid blaming and accusing them. Talk to them without passing judgment and show your curiosity by saying something like, "What is going on for you? How do you feel right now? I know you're a wonderful person who would never hurt me. But something inside you must be causing you to say or behave in such a way."
+
+When you reframe a stressful situation this way, you are slowing your cycle and attempting to understand rather than becoming reactive, which usually leads to positive communication outcomes.
+
 
 _Multis soror_, mundi paruerit quietem in, temeraria velantque guttura temerarius candens prostravit vera operatus, ut fecimus. Gyaros quaesiti in, a frustra,
 iacentia hosti. Suae iamque. Sustinet crimen toris, oves hanc est causa tum paravi phocen in natas, crudelis infra erat minimo? Inquit et **loqui studiisque
