@@ -1,18 +1,19 @@
 ---
-title: Acuti modo
-description: Lorem markdownum tardantis unam mitissima dissimulator inposuit   corpus sintque tura tremenda, nec coetum.
-author: Code Stitch
-date: 2023-06-08T15:26:46.705Z
+title: The Power of Emotionally Focused Therapy: How Can EFT Help You Build Healthy Lasting Relationships
+description: Emotionally focused therapy for couples takes a structured and solution-oriented approach to overcoming relationship issues and developing healthier behavior patterns.
+author: John Bacon Gilbert
+date: 2024-04-02T15:26:46.705Z
 tags:
     - post
 image: /assets/images/blog/landing.jpg
 imageAlt: Kitchen
 ---
 
-## Lacerans aliter tetigit praeterea rite
+## The Power of Emotionally Focused Therapy: How Can EFT Help You Build Healthy Lasting Relationships
 
-Lorem markdownum tardantis unam mitissima dissimulator inposuit corpus sintque tura tremenda, nec coetum. Est limen Isthmo sagittas patres emerguntque anxia
-[defenderet](http://www.morte.com/parvo.html) illi, est.
+Has your relationship been stuck in the same unhealthy patterns that cause you and your spouse to drift apart and feel unseen, unheard, and abandoned? Does your relationship seem like a roommate marriage without genuine emotional connection or passion? Do you struggle with communication breakdown, lost intimacy, emotional disconnection, and loneliness in marriage?
+
+According to research, couples typically wait six years before seeking treatment, which allows their problems to build up and makes healing and rekindling more difficult. Seeking the support of a trained couples counselor early on may help you get unstuck, resolve challenges more positively and productively, and reignite your connection.
 
 -   Sua ille submittere viribus verba visa Myconon
 -   Qvem nec
