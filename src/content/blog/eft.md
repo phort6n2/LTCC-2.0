@@ -5,8 +5,8 @@ author: John Bacon Gilbert
 date: 2024-02-02T12:13:48.705Z
 tags:
     - post
-image: /assets/images/blog/landing.jpg
-imageAlt: Kitchen
+image: https://murrieta-therapy.b-cdn.net/All-The-Benefits-of-Couples-Therapy-with-Lakes-Therapy-and-Counseling-Center.jpg
+imageAlt: Emotionally Focused Therapy at Lakes Therapy and Counseling Center
 ---
 
 Has your relationship been stuck in the same unhealthy patterns that cause you and your spouse to drift apart and feel unseen, unheard, and abandoned? Does your relationship seem like a roommate marriage without genuine emotional connection or passion? Do you struggle with communication breakdown, lost intimacy, emotional disconnection, and loneliness in marriage?
