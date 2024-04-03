@@ -77,4 +77,4 @@ To successfully develop a growth mindset and overcome self-sabotaging behaviors,
 
 ## Empowering Yourself to Make Positive Changes
 
-We know that the journey toward personal growth and self-transformation can be challenging. But it is entirely achievable with the right support. Are you seeking assistance in overcoming self-sabotage and building a strong foundation for a more productive and fulfilling life?  If so, [request your free 15 minute consultation today](https://murrietatherapy.com/schedule) with Lakes Therapy and Counseling Center.
+We know that the journey toward personal growth and self-transformation can be challenging. But it is entirely achievable with the right support. Are you seeking assistance in overcoming self-sabotage and building a strong foundation for a more productive and fulfilling life?  If so, [request your free 15 minute consultation today](https://murrietatherapy.com/schedule) with [Lakes Therapy and Counseling Center](https://murrietatherapy.com).
