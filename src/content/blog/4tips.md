@@ -40,11 +40,11 @@ Identifying and acknowledging self-sabotaging behaviors, beliefs, and thoughts i
 
 Here are the most common behaviors that hinder our success and personal growth.
 
-- Self-Limiting Beliefs and Negative Self-Talk 
+#### Self-Limiting Beliefs and Negative Self-Talk 
 
 Self-sabotage is often rooted in negative self-talk about your own worth, skills, and competence. When you constantly criticize yourself and expect failure, it can diminish your confidence and motivation, so you may give up easily and stay stuck in unproductive patterns. For example, you may be telling yourself that you don't have enough skills and knowledge to apply for a job promotion, so you don't even try despite your knowledge and experience.
 
-- Imposter Syndrome
+#### Imposter Syndrome
 
 Do you doubt your skills and accomplishments, seeing yourself as incompetent or incapable? Do you fear that others will see you as a fraud, assigning your success to outside factors such as luck or chance? Imposter syndrome can make it difficult to explore new opportunities and make changes due to fear of exposure and failure.
 
