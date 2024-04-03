@@ -16,11 +16,11 @@ According to research, couples typically [wait six years before seeking treatmen
 
 ## Why Emotionally Focused Therapy for Couples?
 
-Emotionally focused therapy for couples takes a structured and solution-oriented approach to overcoming relationship issues and developing healthier behavior patterns. **EFT** focuses on attachment in adult relationships, aiming to help couples turn toward each other more frequently and identify and change steps in their relationship dance – dominant emotional responses in situations of distress.
+[Emotionally focused therapy](https://iceeft.com/what-is-eft-public/) for couples takes a structured and solution-oriented approach to overcoming relationship issues and developing healthier behavior patterns. **EFT** focuses on attachment in adult relationships, aiming to help couples turn toward each other more frequently and identify and change steps in their relationship dance – dominant emotional responses in situations of distress.
 
 ## How Can EFT Help You Build A Strong Relationship That Works?
 
-EFT focuses on emotions and patterns in the relationship, encouraging both partners to become more available, vulnerable, and emotionally connected. It provides a secure environment where you and your partner may feel comfortable being vulnerable, revealing your deepest feelings, and opening up about what you truly need to feel seen, heard, and validated. This communication shift will eventually result in the improvement of other aspects of your relationship, your other relationships, and your overall well-being.
+EFT focuses on [emotions and patterns in the relationship](https://www.choosingtherapy.com/emotionally-focused-couples-therapy/), encouraging both partners to become more available, vulnerable, and emotionally connected. It provides a secure environment where you and your partner may feel comfortable being vulnerable, revealing your deepest feelings, and opening up about what you truly need to feel seen, heard, and validated. This communication shift will eventually result in the improvement of other aspects of your relationship, your other relationships, and your overall well-being.
 
 ### 1. EFT Can Help You Understand Your Emotional Responses 
 
@@ -46,7 +46,7 @@ EFT may help you identify what you and your partner do when you are uncomfortabl
 
 When we are in emotional distress, we don't need our partner to rationalize or fix things for us. What we need is a sense of security—the freedom to be vulnerable and the opportunity to feel seen and heard.
 
-Couples therapy may help you explore the roots of distrust and overcome infidelity, lies, or other challenges that led to a breach of trust and learn to reestablish confidence in each other. Through EFT sessions, you can learn to turn to each other in challenging times. This can help build stronger and more resilient relationships.
+[Couples therapy](https://murrietatherapy.com) may help you explore the roots of distrust and overcome infidelity, lies, or other challenges that led to a breach of trust and learn to reestablish confidence in each other. Through EFT sessions, you can learn to turn to each other in challenging times. This can help build stronger and more resilient relationships.
 
 ### 5. EFT Can Equip You with Stress-Management Strategies
 
@@ -62,4 +62,4 @@ The first step toward rekindling love and intimacy in a relationship is open com
 
 ### 8. EFT Can Help Create Secure Attachment
 
-The ultimate goal of emotionally focused therapy for couples is to create a more secure emotional attachment between partners in which they both feel seen, heard, and supported. By strengthening your secure attachment, EFT can help you achieve a more profound and authentic connection, creating a lasting positive change in your relationship.
+The ultimate goal of [emotionally focused therapy](https://coupleconnectionsd.com/emotionally-focused-therapy/) for couples is to create a more secure emotional attachment between partners in which they both feel seen, heard, and supported. By strengthening your secure attachment, EFT can help you achieve a more profound and authentic connection, creating a lasting positive change in your relationship.
