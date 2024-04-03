@@ -63,3 +63,7 @@ The first step toward rekindling love and intimacy in a relationship is open com
 ### 8. EFT Can Help Create Secure Attachment
 
 The ultimate goal of [emotionally focused therapy](https://coupleconnectionsd.com/emotionally-focused-therapy/) for couples is to create a more secure emotional attachment between partners in which they both feel seen, heard, and supported. By strengthening your secure attachment, EFT can help you achieve a more profound and authentic connection, creating a lasting positive change in your relationship.
+
+## Want To Talk To A Therapist?
+
+Get a free [15 minute consultation](https://murrietatherapy.com/schedule) now for couples therapy, individual therapy, or family therapy. We're here for you, and you don't have to try to navigate to wellness on your own. [Get your 15 minute consultation today!](https://murrietatherapy.com/schedule)
