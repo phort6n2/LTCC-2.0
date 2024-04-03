@@ -5,6 +5,7 @@ author: John Bacon Gilbert
 date: 2024-02-02T12:13:48.705Z
 tags:
     - post
+    - featured
 image: https://murrieta-therapy.b-cdn.net/All-The-Benefits-of-Couples-Therapy-with-Lakes-Therapy-and-Counseling-Center.jpg
 imageAlt: Emotionally Focused Therapy at Lakes Therapy and Counseling Center
 ---
