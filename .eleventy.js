@@ -23,6 +23,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(pluginEleventyNavigation);
 
     eleventyConfig.addPlugin(pluginRss);
+    
 
     // Automatically generate a sitemap, using the domain in _data/client.json
     // https://www.npmjs.com/package/@quasibit/eleventy-plugin-sitemap
