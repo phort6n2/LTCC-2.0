@@ -2,7 +2,6 @@
 const pluginEleventyNavigation = require("@11ty/eleventy-navigation");
 const pluginMinifier = require("@sherby/eleventy-plugin-files-minifier");
 const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const configCssExtension = require("./src/config/cssExtension");
 const configSitemap = require("./src/config/sitemap");
@@ -10,16 +9,12 @@ const configServer = require("./src/config/server");
 
 const filterPostDate = require("./src/config/postDate");
 
-
 module.exports = function (eleventyConfig) {
-    
     // EXTENSIONS - Recognising non-default languages as templates
     // Setting up CSS files to be recognised as a template language, and can be passed through eleventy. This allows our minifier to read CSS files and minify them
     eleventyConfig.addTemplateFormats("css");
     eleventyConfig.addExtension("css", configCssExtension);
     // END EXTENSIONS
-
-    eleventyConfig.addPlugin(pluginRss);
 
     // PLUGINS - Adds additional eleventy functionality
     // Sets up the eleventy navigation plugin for a scalable navigation as used in _includes/components/header.html
