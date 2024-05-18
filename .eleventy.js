@@ -8,6 +8,7 @@ const configSitemap = require("./src/config/sitemap");
 const configServer = require("./src/config/server");
 
 const filterPostDate = require("./src/config/postDate");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
     // EXTENSIONS - Recognising non-default languages as templates
@@ -20,6 +21,8 @@ module.exports = function (eleventyConfig) {
     // Sets up the eleventy navigation plugin for a scalable navigation as used in _includes/components/header.html
     // https://github.com/11ty/eleventy-navigation
     eleventyConfig.addPlugin(pluginEleventyNavigation);
+
+    eleventyConfig.addPlugin(pluginRss);
 
     // Automatically generate a sitemap, using the domain in _data/client.json
     // https://www.npmjs.com/package/@quasibit/eleventy-plugin-sitemap
