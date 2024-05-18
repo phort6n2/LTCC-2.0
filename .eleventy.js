@@ -2,13 +2,14 @@
 const pluginEleventyNavigation = require("@11ty/eleventy-navigation");
 const pluginMinifier = require("@sherby/eleventy-plugin-files-minifier");
 const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const configCssExtension = require("./src/config/cssExtension");
 const configSitemap = require("./src/config/sitemap");
 const configServer = require("./src/config/server");
 
 const filterPostDate = require("./src/config/postDate");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 
 module.exports = function (eleventyConfig) {
     
