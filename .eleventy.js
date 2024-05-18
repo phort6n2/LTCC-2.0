@@ -8,6 +8,7 @@ const configSitemap = require("./src/config/sitemap");
 const configServer = require("./src/config/server");
 
 const filterPostDate = require("./src/config/postDate");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
     // EXTENSIONS - Recognising non-default languages as templates
@@ -25,15 +26,13 @@ module.exports = function (eleventyConfig) {
     // https://www.npmjs.com/package/@quasibit/eleventy-plugin-sitemap
     eleventyConfig.addPlugin(pluginSitemap, configSitemap);
 
+    eleventyConfig.addPlugin(pluginRss);
+
     // When in production ("npm run build" is ran), minify all HTML, CSS, JSON, XML, XSL and webmanifest files.
     // https://github.com/benjaminrancourt/eleventy-plugin-files-minifier
     if (configServer.isProduction) {
         eleventyConfig.addPlugin(pluginMinifier);
-
-    const pluginRss = require("@11ty/eleventy-plugin-rss");
-
-        module.exports = function (eleventyConfig) {
-            eleventyConfig.addPlugin(pluginRss);
+            
         };    
     }
     // END PLUGINS
