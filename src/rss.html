@@ -1,0 +1,20 @@
+---
+permalink: /rss.xml
+layout: null
+eleventyExcludeFromCollections: true
+---
+<rss version="2.0">
+    <channel>
+        <title>Lakes Therapy and Counseling Center Blog</title> 
+        <link>https://murrietatherapy.com/blog/</link>
+        <description>Couples Therapy, Marriage Counseling, and Therapy Articles</description>
+        <language>en-us</language>
+        {% for post in collections.posts %}
+            <item>
+                <title>{{ post.data.pageTitle }}</title>
+                <link>{{ post.url }}</link>
+                <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+            </item>
+        {% endfor %}
+    </channel>
+</rss>
