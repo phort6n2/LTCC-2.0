@@ -12,6 +12,7 @@ const filterPostDate = require("./src/config/postDate");
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(rssPlugin);
+    
 
     // EXTENSIONS - Recognising non-default languages as templates
     // Setting up CSS files to be recognised as a template language, and can be passed through eleventy. This allows our minifier to read CSS files and minify them
