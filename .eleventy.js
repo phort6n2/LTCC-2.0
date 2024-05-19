@@ -35,6 +35,7 @@ module.exports = function (eleventyConfig) {
         eleventyConfig.addPlugin(pluginMinifier);
     }
     // END PLUGINS
+    
 
     // SERVER - Set how the eleventy dev server is run, using the options from https://www.11ty.dev/docs/dev-server/
     eleventyConfig.setServerOptions(configServer);
