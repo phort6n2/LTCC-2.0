@@ -28,6 +28,7 @@
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>   
       <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+      <description><![CDATA[<img src="{{ post.data.image }}"/>]]></description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
