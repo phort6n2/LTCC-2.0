@@ -1,12 +1,11 @@
-/* PAGE-SPECIFIC STYLES FOR THE ABOUT PAGE */
 /*-- -------------------------- -->
 <---           Form             -->
 <--- -------------------------- -*/
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
   #cs-contact-485 {
-    margin-top: 100px;
     padding: var(--sectionPadding);
+    margin-top: 40px;
     position: relative;
     z-index: 1;
   }
@@ -148,7 +147,6 @@
     color: #14142b;
   }
   #cs-contact-485 .cs-input,
-  #cs-contact-485 .cs-textarea,
   #cs-contact-485 #cs-select-485 {
     font-size: 1rem;
     font-family: inherit;
@@ -163,14 +161,26 @@
     background-color: transparent;
   }
   #cs-contact-485 .cs-input::placeholder,
-  #cs-contact-485 .cs-textarea::placeholder,
   #cs-contact-485 #cs-select-485::placeholder {
     color: #7d799c;
     font-size: 1rem;
   }
   #cs-contact-485 .cs-textarea {
-    min-height: 9.375rem;
-    padding-top: 0.625rem;
+    min-height: 6.25rem;
+    font-size: 1rem;
+    font-family: inherit;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    /* prevents padding from affecting width and height */
+    box-sizing: border-box;
+    border-radius: 0.5rem;
+    border: 1px solid #b4b2c7;
+    background-color: transparent;
+  }
+  #cs-contact-485 .cs-textarea::placeholder {
+    color: #7d799c;
+    font-size: 1rem;
   }
   #cs-contact-485 .cs-button-solid {
     font-size: 1rem;
@@ -229,8 +239,8 @@
     height: 100%;
     width: 100%;
     background: rgba(20, 20, 43, 0.5);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
     top: 0;
     left: 0;
     z-index: 1;
