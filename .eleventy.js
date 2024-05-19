@@ -10,10 +10,12 @@ const configServer = require("./src/config/server");
 const filterPostDate = require("./src/config/postDate");
 
 module.exports = function (eleventyConfig) {
+
     // EXTENSIONS - Recognising non-default languages as templates
     // Setting up CSS files to be recognised as a template language, and can be passed through eleventy. This allows our minifier to read CSS files and minify them
     eleventyConfig.addTemplateFormats("css");
     eleventyConfig.addExtension("css", configCssExtension);
+
     // END EXTENSIONS
 
     // PLUGINS - Adds additional eleventy functionality
@@ -31,6 +33,7 @@ module.exports = function (eleventyConfig) {
         eleventyConfig.addPlugin(pluginMinifier);
     }
     // END PLUGINS
+    
 
     // SERVER - Set how the eleventy dev server is run, using the options from https://www.11ty.dev/docs/dev-server/
     eleventyConfig.setServerOptions(configServer);
@@ -71,3 +74,4 @@ module.exports = function (eleventyConfig) {
         htmlTemplateEngine: "njk",
     };
 };
+

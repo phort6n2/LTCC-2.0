@@ -3,3 +3,5 @@ permalink: /_redirects
 eleventyExcludeFromCollections: true
 ---
 /faqs  /faq
+/about-us  /about
+/portfolio /
