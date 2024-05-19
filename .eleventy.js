@@ -1,4 +1,5 @@
 // imports
+const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const pluginEleventyNavigation = require("@11ty/eleventy-navigation");
 const pluginMinifier = require("@sherby/eleventy-plugin-files-minifier");
 const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
@@ -10,6 +11,7 @@ const configServer = require("./src/config/server");
 const filterPostDate = require("./src/config/postDate");
 
 module.exports = function (eleventyConfig) {
+    eleventyConfig.addPlugin(rssPlugin);
 
     // EXTENSIONS - Recognising non-default languages as templates
     // Setting up CSS files to be recognised as a template language, and can be passed through eleventy. This allows our minifier to read CSS files and minify them
@@ -33,7 +35,6 @@ module.exports = function (eleventyConfig) {
         eleventyConfig.addPlugin(pluginMinifier);
     }
     // END PLUGINS
-    
 
     // SERVER - Set how the eleventy dev server is run, using the options from https://www.11ty.dev/docs/dev-server/
     eleventyConfig.setServerOptions(configServer);
