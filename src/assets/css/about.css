@@ -7,6 +7,7 @@
   #meet-team-1141 {
     padding: var(--sectionPadding);
     overflow: hidden;
+    margin-top: 10vh;
   }
   #meet-team-1141 .cs-container {
     width: 100%;
