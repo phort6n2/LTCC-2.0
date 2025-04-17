@@ -10,8 +10,6 @@ image: https://lh3.googleusercontent.com/p/AF1QipO5EmEgG2f9jDdGBgu-4EQschzDF79wp
 imageAlt: Menifee - California's Fastest Growing City and the Need for Social Services
 ---
 
-# Menifee: California's Fastest Growing City and the Need for Social Services
-
 Menifee, California, is a city on the rise. As one of the fastest-growing cities in California, it has attracted countless new residents seeking a fresh start. With its scenic landscapes and community spirit, Menifee offers a welcoming environment. However, as the population grows, the availability of social services has struggled to keep pace, leaving many residents in need of support. This is where Lakes Therapy and Counseling Center steps in to make a difference.
 
 We understand that many new residents commute to major cities like Los Angeles and San Diego, often finding it challenging to balance busy schedules with the need for mental health and relationship support. That's why we offer convenient Saturday sessions and video counseling options to ensure that accessing help is as easy and flexible as possible.
