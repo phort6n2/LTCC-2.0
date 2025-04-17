@@ -2,7 +2,7 @@
 title: The Power of Emotionally Focused Therapy - How Can EFT Help You Build Healthy Lasting Relationships
 description: Emotionally focused therapy for couples takes a structured and solution-oriented approach to overcoming relationship issues and developing healthier behavior patterns.
 author: John Bacon Gilbert
-date: 2024-02-02T12:13:48.705Z
+date: 2025-02-02T12:13:48.705Z
 tags:
     - post
     - featured
