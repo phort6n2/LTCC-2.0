@@ -51,7 +51,7 @@ eleventyNavigation:
             </label>
             <label class="cs-label cs-label-message">
                 What type of therapy are you interested in?
-                <select name="Interest" id="cs-select-485">
+                <select name="Therapy Interested In?" id="cs-select-485">
                     <option value="couples therapy">Couples Therapy</option>
                     <option value="individual therapy">Individual Therapy</option>
                     <option value="family therapy">Family Therapy</option>
@@ -59,7 +59,7 @@ eleventyNavigation:
             </label>
             <label class="cs-label cs-label-message">
                 What time of the day works best for the initial consultation?
-                <select name="Time" id="cs-select-485">
+                <select name="Best Consultation Time?" id="cs-select-485">
                     <option value="any time with planning">Any time with planning</option>
                     <option value="morning">Mornings</option>
                     <option value="lunch">Lunch (11am - 1pm)</option>
@@ -69,7 +69,7 @@ eleventyNavigation:
             </label>
             <label class="cs-label cs-label-message">
                 For your initial consultation, do you prefer meeting on the phone or online with video (Your sessions would be in person if you prefer)?
-                <select name="Consultation" id="cs-select-485">
+                <select name="Consultation Type?" id="cs-select-485">
                     <option value="zoom">Video/Online with Zoom</option>
                     <option value="phone">Phone call</option>
                 </select>
@@ -83,11 +83,18 @@ eleventyNavigation:
             </label>
             <label class="cs-label">
                 For a full service therapist, what amount are you willing to invest in weekly sessions?
-                <input class="cs-input" required type="text" id="email-485" name="investment" placeholder="Enter the dollar amount">
+                <input class="cs-input" required type="text" id="email-485" name="Investment?" placeholder="Enter the dollar amount">
+            </label>
+            <label class="cs-label cs-label-message">
+                How do you want us to contact you?
+                <select name="How To Contact?" id="cs-select-485">
+                    <option value="now">Email</option>
+                    <option value="no rush">Phone</option>
+                </select>
             </label>
             <label class="cs-label">
                 Anything You'd Like Us To Know?
-                <textarea class="cs-textarea" type="text" id="find-485" name="info" placeholder="If you'd like, you can give us info info about why you're seeking therapy or what you're seeking therapy for."></textarea>
+                <textarea class="cs-textarea" type="text" id="find-485" name="Any Additional Info?" placeholder="If you'd like, you can give us info info about why you're seeking therapy or what you're seeking therapy for."></textarea>
             </label>
             <button class="cs-button-solid cs-submit" type="submit">Submit</button>
         </form>
