@@ -6,8 +6,8 @@ date: 2025-04-17T15:28:08.486Z
 tags:
     - post
     - featured
-image: https://murrieta-therapy.b-cdn.net/Lakes-Therapy-and-Counseling-Center-Stays-On-Schedule.jpg
-imageAlt: 4 Tips to Overcome Self-Sabotage with Lakes Therapy and Counseling Center
+image: https://lh3.googleusercontent.com/p/AF1QipO5EmEgG2f9jDdGBgu-4EQschzDF79wpSqmlrsI
+imageAlt: Menifee - California's Fastest Growing City and the Need for Social Services
 ---
 
 # Menifee: California's Fastest Growing City and the Need for Social Services
