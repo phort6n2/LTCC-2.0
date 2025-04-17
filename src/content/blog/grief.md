@@ -5,7 +5,6 @@ author: John Bacon Gilbert
 date: 2024-05-28T12:13:48.705Z
 tags:
     - post
-    - featured
 image: https://cosweb.b-cdn.net/phort6n2_a_family_together_remembering_a_loved_one_ee98c71d-a965-4e39-984b-a21b0b1fbb39_0.webp
 imageAlt: Premarital Therapy at Lakes Therapy and Counseling Center
 ---
