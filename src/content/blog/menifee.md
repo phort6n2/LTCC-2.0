@@ -33,8 +33,4 @@ At Lakes Therapy and Counseling, we offer weekly sessions priced at $200, a comp
 
 As Menifee continues to grow, the need for comprehensive support services becomes increasingly evident. At Lakes Therapy and Counseling Center, we are dedicated to providing the resources necessary for couples to navigate their challenges effectively.
 
-We challenge you to invest in your relationship. Whether you've been together for years or are newly committed, take the first step towards a stronger partnership. Contact us today to schedule your session, and let's work together to create the relationship you deserve.
-
-Your journey to a healthier, happier partnership starts now!
-
-We know that the journey toward personal growth and self-transformation can be challenging. But it is entirely achievable with the right support. Are you seeking assistance in overcoming self-sabotage and building a strong foundation for a more productive and fulfilling life?  If so, [request your free 15 minute consultation today](https://murrietatherapy.com/schedule) with [Lakes Therapy and Counseling Center](https://murrietatherapy.com).
+We challenge you to invest in your relationship. Whether you've been together for years or are newly committed, take the first step towards a stronger partnership. [Contact us today to schedule your session](https://murrietatherapy.com/schedule), and let's work together to create the relationship you deserve.
