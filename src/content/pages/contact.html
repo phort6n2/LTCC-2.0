@@ -34,7 +34,7 @@ permalink: 'contact/'
 
     <section id="cs-contact">
         <div class="cs-container">
-            <form id="cs-form" name="Contact Form" method="post" netlify>
+            <form id="cs-form" name="Contact Form" method="post" data-netlify-recaptcha="true" netlify>
                 <div class="cs-content">
                     <span class="cs-topper">Contact Us</span>
                     <h2 class="cs-title">Have A Question?</h2>
@@ -62,6 +62,9 @@ permalink: 'contact/'
                     Question or Message
                     <textarea required name="Message" id="message" placeholder="Write message..."></textarea>
                 </label>
+                </p>
+                <div data-netlify-recaptcha="true"></div>
+                <p>
                 <button class="cs-button-solid" type="submit">Submit Message</button>
             </form>
             <div class="cs-right-section">
